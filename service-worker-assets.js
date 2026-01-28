@@ -1,6 +1,14 @@
 self.assetsManifest = {
-  "version": "frUa7P4K",
+  "version": "FCkV7bKF",
   "assets": [
+    {
+      "hash": "sha256-eGPLxRtaiN6CQQV6E8YkO4kj+QivrhnptszXngKXGkg=",
+      "url": ".gitattributes"
+    },
+    {
+      "hash": "sha256-8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U=",
+      "url": ".nojekyll"
+    },
     {
       "hash": "sha256-9EsIlAE2YGSudXeye7gWB90Ut9i0sLNfQK2p60yPJJQ=",
       "url": "_framework/LaverieAnalyzer.Business.s81fo6dhwo.wasm"
